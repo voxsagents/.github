@@ -45,7 +45,7 @@ Dental clinics · HVAC companies · Plumbers · Salons · Real estate teams · A
 - **Localization Studio:** Work with subtitles, transcription, translation, and voice workflows.
 - **Open development:** Follow progress, report issues, and contribute on GitHub.
 
-**[Explore Open Media Workbench →](https://github.com/osmangonirabbi13/Open-Media-Workbench)**
+**[Explore Open Media Workbench →](https://github.com/voxsagents/Open-Media-Workbench)**
 
 > Features, offline AI capabilities, and supported operating systems depend on the release. See the project repository for the current status.
 
